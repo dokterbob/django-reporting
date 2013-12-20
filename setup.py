@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-reporting',
-    version=__import__('reporting').__version__,
+    version='0.2.6dev',
     description='django-reporting',
     long_description=open('README.md').read(),
     author='Vitaliy Kucheraviy, Rinat Shigapov',
